@@ -1,3 +1,13 @@
+<a name="0.1.1"></a>
+## [0.1.1](https://github.com/sinnerschrader/patternplate-transform-markdown/compare/v0.1.0...v0.1.1) (2016-02-16)
+
+
+### Bug Fixes
+
+* use actual markdown transform ([a595aec](https://github.com/sinnerschrader/patternplate-transform-markdown/commit/a595aec))
+
+
+
 <a name="0.1.0"></a>
 # 0.1.0 (2016-02-15)
 
