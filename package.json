@@ -34,7 +34,8 @@
   },
   "homepage": "https://github.com/sinnerschrader/patternplate-transform-markdown#readme",
   "keywords": [
-    "browserify",
+    "markdown",
+    "marked",
     "patternplate",
     "transform",
     "pattern"
