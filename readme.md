@@ -1,4 +1,6 @@
 # patternplate-transform-markdown
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/sinnerschrader/patternplate-transform-markdown.svg)](https://greenkeeper.io/)
 [patternplate](/sinnerschrader/patternplate) patternplate transform creating html from markdown sources
 
 ## Installation
