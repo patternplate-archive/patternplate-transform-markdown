@@ -15,11 +15,11 @@ npm install --save patternplate-transform-markdown
 ```js
 // configuration/patternplate-server/patterns.js
 module.exports = {
-	formats: {
-		md: {
-			transforms: ['markdown']
-		}
-	}
+  formats: {
+    md: {
+      transforms: ['markdown']
+    }
+  }
 };
 
 // configuration/patternplate-server/formats.js
