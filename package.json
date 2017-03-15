@@ -68,7 +68,8 @@
     "husky": "0.10.2",
     "parallelshell": "2.0.0",
     "snyk": "1.25.2",
-    "watch": "0.17.1"
+    "watch": "0.17.1",
+    "xo": "^0.17.1"
   },
   "dependencies": {
     "remark": "7.0.0",
