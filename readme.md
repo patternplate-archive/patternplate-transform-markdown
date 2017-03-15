@@ -36,7 +36,7 @@ module.exports = {
 
 [0]: https://img.shields.io/badge/stability-deprecated-red.svg?style=flat-square
 [1]: https://nodejs.org/api/documentation.html#documentation_stability_index
-[2]: https://img.shields.io/travis/marionebl/patternplate-transform-markdown/master.svg?style=flat-square
-[3]: https://travis-ci.org/marionebl/patternplate-transform-markdown
+[2]: https://img.shields.io/travis/sinnerschrader/patternplate-transform-markdown/master.svg?style=flat-square
+[3]: https://travis-ci.org/sinnerschrader/patternplate-transform-markdown
 [6]: https://img.shields.io/npm/v/patternplate-transform-markdown.svg?style=flat-square
 [7]: https://npmjs.org/package/patternplate-transform-markdown
