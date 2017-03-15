@@ -1,3 +1,18 @@
+<a name="1.0.0"></a>
+# [1.0.0](https://github.com/sinnerschrader/patternplate-transform-markdown/compare/v0.1.1...v1.0.0) (2017-03-15)
+
+
+### Chores
+
+* bring package up to speed ([cdd3944](https://github.com/sinnerschrader/patternplate-transform-markdown/commit/cdd3944))
+
+
+### BREAKING CHANGES
+
+* * remark produces different output
+
+
+
 <a name="0.1.1"></a>
 ## [0.1.1](https://github.com/sinnerschrader/patternplate-transform-markdown/compare/v0.1.0...v0.1.1) (2016-02-16)
 

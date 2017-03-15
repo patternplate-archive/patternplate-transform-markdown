@@ -1,6 +1,6 @@
 {
   "name": "patternplate-transform-markdown",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "description": "patternplate transform creating html from markdown sources",
   "main": "distribution/index.js",
   "files": [
