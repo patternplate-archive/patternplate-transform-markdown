@@ -1,3 +1,6 @@
+> # ⚠️ Deprecated
+> Use instead: https://patternplate.github.io/
+
 > transform markdown to html in patternplate
 
 # patternplate-transform-markdown [![stability][0]][1]
